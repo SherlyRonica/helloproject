@@ -1,7 +1,7 @@
 <html>
 <body>
 <script type="text/javascript">
-  document.write("<h1?hello world!</h1?");
+  document.write("<h1?hello world!</h1>");
   </script>
   </body>
   </html>
